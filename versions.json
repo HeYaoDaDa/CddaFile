@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "testVersion_id",
+    "id": "cdda-experimental-2022-05-21-2037",
+    "releaseId": "000",
+    "releaseName": "cdda-experimental-2022-06-11-0326",
+    "releaseDescribe": "releaseDescribe",
+    "targetCommit": "cdda-experimental-2022-06-11-0326",
+    "isExperiment": true,
+    "createDate": 1653103608,
+    "publishDate": 1653103608,
+    "tagName": "cdda-experimental-2022-06-11-0326",
+    "tagMessage": "test",
+    "tagDate": 1653103608,
+    "jsonUrls": [
+      "https://raw.githubusercontent.com/HeYaoDaDa/CddaFile/master/data/cdda-experimental-2022-05-21-2037/jsonItems.json.zip"
+    ],
+    "languages": [
+      {
+        "code": "zh-CN",
+        "urls": [
+          "https://raw.githubusercontent.com/HeYaoDaDa/CddaFile/master/data/cdda-experimental-2022-05-21-2037/zh-CN.json.zip"
+        ]
+      }
+    ]
+  }
+]
